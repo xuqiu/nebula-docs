@@ -1,4 +1,4 @@
-# Welcome to NebulaGraph {{ nebula.release }} Documentation
+# Welcome to NebulaGraph {{ nebula.release }} Documentation  
 
 !!! note
 
